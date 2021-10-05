@@ -7,7 +7,7 @@ _Short description of project_
 
 ## Get started
 
-_A quick description how your project can be used, including where the relevant resources can be obtained from.
+_A quick description how your project can be used, including from where the relevant resources can be obtained and
 Put into another file if too big._
 
 
